@@ -2,7 +2,7 @@
 Demo Script: Using LangChain with Microsoft Learn Docs MCP Server
 
 This example demonstrates how to use LangChain's MCP client adapter to connect
-to the Microsoft Learn MCP server, discover tools, and invoke the 
+to the Microsoft Learn Docs MCP server, discover tools, and invoke the 
 'microsoft_docs_search' tool to query Microsoft Docs in real time.
 
 Author: Artemakis Artemiou
