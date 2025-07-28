@@ -1,11 +1,20 @@
 # LangChain + MCP Client for Microsoft Learn Docs MCP Server | GnoelixiAI Demo
-A demo LangChain client that connects to the Microsoft Docs MCP Server to perform real-time doc queries.
+A demo LangChain client in Python that connects to the Microsoft Docs MCP Server to perform real-time doc queries.
 
 ## Prerequisites
 Install required libraries with:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+Run the demo script with:
+
+```bash
+python ms-learn-mcp-search-langchain.py
+```
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
