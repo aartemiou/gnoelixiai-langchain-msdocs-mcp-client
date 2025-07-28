@@ -18,11 +18,15 @@ python ms-learn-mcp-search-langchain.py
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
 ## Trademark Notice
 
 Microsoft, Microsoft Learn, and related logos are trademarks or registered trademarks of Microsoft Corporation.
+
 LangChain is a trademark of LangChain, Inc.
+
 All other product names, logos, and brands mentioned in this project are the property of their respective owners. Use of these names does not imply any affiliation or endorsement.
+
 
 ## Author
 Artemakis Artemiou
