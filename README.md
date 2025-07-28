@@ -18,6 +18,8 @@ python ms-learn-mcp-search-langchain.py
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 ## Trademark Notice
 
