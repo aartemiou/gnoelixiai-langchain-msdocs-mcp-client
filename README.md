@@ -1,4 +1,4 @@
-# LangChain + MCP Client for Microsoft Learn Docs MCP Server | GnoelixiAI Demo
+# LangChain + MCP Client for Microsoft Learn Docs MCP Server | Demo Implementation
 A demo LangChain client in Python that connects to the Microsoft Docs MCP Server to perform real-time doc queries.
 
 ## Prerequisites
