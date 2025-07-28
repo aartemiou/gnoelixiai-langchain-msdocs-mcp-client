@@ -1,0 +1,8 @@
+# Core LangChain framework
+langchain
+
+# Adapter package to connect LangChain with Model Context Protocol (MCP) servers
+langchain-mcp-adapters
+
+# Asynchronous HTTP client/server library for making non-blocking requests
+aiohttp
