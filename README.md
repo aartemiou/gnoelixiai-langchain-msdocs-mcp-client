@@ -30,5 +30,7 @@ All other product names, logos, and brands mentioned in this project are the pro
 
 ## Author
 Artemakis Artemiou
+
 AI & Data Architect | Database Expert | Former Microsoft MVP | Scaled Scrum Master | Published Author & Speaker
+
 https://www.linkedin.com/in/aartemiou/
